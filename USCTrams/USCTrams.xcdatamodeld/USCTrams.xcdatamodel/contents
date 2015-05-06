@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="6220.14" systemVersion="14A329f" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Route" syncable="YES"/>
+    <entity name="Stop" syncable="YES"/>
+    <entity name="Vehicle" syncable="YES"/>
+    <elements>
+        <element name="Route" positionX="-63" positionY="-18" width="128" height="45"/>
+        <element name="Stop" positionX="-54" positionY="-9" width="128" height="45"/>
+        <element name="Vehicle" positionX="-36" positionY="9" width="128" height="45"/>
+    </elements>
+</model>

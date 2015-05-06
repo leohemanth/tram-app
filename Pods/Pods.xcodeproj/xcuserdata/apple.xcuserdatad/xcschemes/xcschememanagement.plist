@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-USC Trams-AFNetworking.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-USC Trams-Appirater-Appirater.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-USC Trams-Appirater.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-USC Trams-BlocksKit.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-USC Trams-Bolts.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-USC Trams-DZNEmptyDataSet.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-USC Trams-GPUberView.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-USC Trams-HTMLReader.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-USC Trams-INTULocationManager.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-USC Trams-JSONModel.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-USC Trams-Masonry.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-USC Trams-NUI.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-USC Trams-NUIParse.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-USC Trams-PulsingHalo.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-USC Trams-RNFrostedSidebar.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-USC Trams-TTTAttributedLabel.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-USC Trams-XMLDictionary.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-USC Trams-ionicons.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-USC Trams.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>03E792FAA217B3C3B7AEC88A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>06511FEE6DEF23C2EED7DD08</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>10D3D85DDFE36C93ACEB832F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1979BF6C3472B09D1835278D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>266D6955CC88820C2350D165</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>34E6D7B956574817EE11ABC0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3E76F4F389E369970A822E29</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>466C6F624FF6690D4FD9AD28</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>652D7823B06A762AABF5DAE4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7BB88B4C7467A27DAD6357E2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>837EC5C2D3541C45300192DC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>866CBB5193DE9FDB4E86DE3A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>975B232D4C70C2CBFEBE5E13</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BA2DF93CE391A800AA2A3F4B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C1483D5B73EC368D594B6105</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C563D4CA2E2875E1CEA82E64</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D23732A1AFC82EEEBB768B63</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D4B0AC7F4BF40C3BC3C0B3D4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E0CAF2F736288940E1F875DB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

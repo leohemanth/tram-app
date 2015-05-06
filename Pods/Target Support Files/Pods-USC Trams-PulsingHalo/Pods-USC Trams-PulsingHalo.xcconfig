@@ -1,0 +1,1 @@
+PODS_USC_TRAMS_PULSINGHALO_OTHER_LDFLAGS = -framework "QuartzCore"
